@@ -1,4 +1,4 @@
-This is our Github repository's url: https://github.com/ryantran309/str4in
+This is our Github repository's url: https://github.com/leadung/Str4in.git
 
 How to run Str4in on localhost step by step:
 - Download and install Mongo Compass, then create an account. 
